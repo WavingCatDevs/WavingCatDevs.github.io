@@ -1,3 +1,4 @@
 ## My simple homepage
 
-https://wavingcatdevs.github.io
+
+https://wavingcat.is-a.dev/
